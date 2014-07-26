@@ -34,6 +34,7 @@ sftp-config.json
 .DS_Store
 *.log
 node_modules
+node_modules/
 build
 *.node
 components
@@ -44,6 +45,7 @@ sandbox
 test/out-fixtures/*
 test/watch-*.txt
 gulp.1
+g
 
 ### Bower ###
 /node_modules
@@ -53,10 +55,9 @@ gulp.1
 /test/assets/temp-*/
 /test/reports
 /test/tmp/
-
-bower.json
 component.json
 bower_components
+bower_components/
 
 bower_components/*/*
 !bower_components/*/.bower.json
