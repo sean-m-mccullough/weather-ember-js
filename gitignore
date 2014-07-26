@@ -54,6 +54,6 @@ gulp.1
 /test/reports
 /test/tmp/
 
-/bower.json
-/component.json
-/bower_components
+bower.json
+component.json
+bower_components
