@@ -57,3 +57,6 @@ gulp.1
 bower.json
 component.json
 bower_components
+
+bower_components/*/*
+!bower_components/*/.bower.json
